@@ -13,13 +13,13 @@ struct ContentView: View {
         TabView {
             HomeView()
                 .tabItem {
-                    Label("Home", systemImage: "person")
+                    Label("Home", systemImage: "person.circle")
                 }
 
 
             StoryView()
                 .tabItem {
-                    Label("Story", systemImage: "book")
+                    Label("Story", systemImage: "book.fill")
                 }
 
             FavoritesView()
@@ -27,10 +27,10 @@ struct ContentView: View {
                     Label("Favorites", systemImage: "star")
                 }
 
-//            FunFactsView()
-//                .tabItem {
-//                    Label("Fun Facts", systemImage: "hand.thumbsup")
-//                }
+            FunFactsView()
+                .tabItem {
+                    Label("Fun Facts", systemImage: "hand.thumbsup")
+                }
         }
         
     }

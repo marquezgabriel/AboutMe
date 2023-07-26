@@ -36,18 +36,18 @@ let information = Info(
 
     And so, this is my story, a testament to the transformative power of technology and the indomitable human spirit. The journey continues, and I invite you to be a part of it.
     """,
-    hobbies: ["bicycle", "ticket.fill", "book.fill"],
-    foods: ["🥐", "🌮", "🍣"],
-    colors: [Color.blue, Color.purple, Color.pink],
+    hobbies: ["camera", "gamecontroller", "book"],
+    foods: ["🥓", "🥑", "🥩"],
+    colors: [Color.blue, Color.green, Color.cyan],
     funFacts: [
-        "The femur is the longest and largest bone in the human body.",
+        "The femur is the longest and largest bone in the human body.🦴",
         "The moon is 238,900 miles away.",
         "Prince’s last name was Nelson.",
         "503 new species were discovered in 2020.",
-        "Ice is 9 percent less dense than liquid water.",
+        "Ice is 9 percent less dense than liquid water.❄️",
         "You can spell every number up to 1,000 without using the letter A.\n\n...one, two, three, four...ninety-nine...nine hundred ninety-nine 🧐",
         "A collection of hippos is called a bloat.",
-        "White sand beaches are made of parrotfish poop.",
+        "White sand beaches are made of parrotfish poop.🐟",
     ]
 )
 
